@@ -1,0 +1,6 @@
+When a problem comes along, you must zip it!
+10 11 13 16 20 25
+3 g 869
+6 6
+hurraz
+5 1 2 4 6 3
